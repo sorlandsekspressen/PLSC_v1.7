@@ -1,7 +1,3 @@
-'BASIC converted from file:
-'C:\Users\tho2303\OneDrive - Vestfold og Telemark fylkeskommune\Hansen electronics and education\PLSC MKR\Kode_picaxe\Picaxekode for stromstyring med 5min valg.xml
-'Converted  2023-09-19 at 09:11:19
-
 symbol i = w0
 symbol sleepLoop = w1
 symbol sleepTime = w2
